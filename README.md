@@ -1,2 +1,2 @@
 # What is the project about??
-This is flask app to create weather api
+A REST API built with Python and Flask to serve historical weather data for various cities.
